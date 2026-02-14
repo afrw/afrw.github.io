@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-14T14:41:00-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. It will appear  in your document head meta and in your feed.xml site description.
+</subtitle><author><name>GitHub User</name><email>your-email@domain.com</email></author><entry><title type="html">My Example Post</title><link href="http://localhost:4000/script/2016/05/20/my-example-post.html" rel="alternate" type="text/html" title="My Example Post" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>http://localhost:4000/script/2016/05/20/my-example-post</id><content type="html" xml:base="http://localhost:4000/script/2016/05/20/my-example-post.html"><![CDATA[Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+
+{% comment %}
+Might you have an include in your theme? Why not try it here!
+{% include my-themes-great-include.html %}
+{% endcomment %}
+
+No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.]]></content><author><name>John Doe</name></author><category term="script" /><summary type="html"><![CDATA[Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.]]></summary></entry><entry><title type="html">Some articles are just so long they deserve a really long title to see if things will break well</title><link href="http://localhost:4000/script/misc/2016/05/20/super-long-article.html" rel="alternate" type="text/html" title="Some articles are just so long they deserve a really long title to see if things will break well" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>http://localhost:4000/script/misc/2016/05/20/super-long-article</id><content type="html" xml:base="http://localhost:4000/script/misc/2016/05/20/super-long-article.html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.]]></content><author><name>GitHub User</name><email>your-email@domain.com</email></author><category term="script" /><category term="misc" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.]]></summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/script/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>http://localhost:4000/script/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/script/junk/2016/05/20/this-post-demonstrates-post-content-styles.html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+## Some great heading (h2)
+
+Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+
+Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+## Another great heading (h2)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+### Some great subheading (h3)
+
+Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+
+Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+
+### Some great subheading (h3)
+
+Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+
+### Some great subheading (h3)
+
+Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+
+```html
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+```
+
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+#### You might want a sub-subheading (h4)
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+#### But it's probably overkill (h4)
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+##### Could be a smaller sub-heading, `pacman` (h5)
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+###### Small yet significant sub-heading  (h6)
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+### Whaaat, a checklist??
+
+- [ ] Milk
+- [x] Cookies
+  - [x] Classic Choco-chip
+  - [x] Sourdough Choco-chip
+- [ ] Chee-ee-eeee-zzze!!!!
+
+### Oh hai, an unordered list!!
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+- First item, yo
+- Second item, dawg
+- Third item, what what?!
+- Fourth item, fo sheezy my neezy
+- Fifth item, nested!
+  - So la ti do
+  - Ba-da-bing!
+  - Ba-da-boom!
+
+### Oh hai, an ordered list!!
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+
+1. First item, yo
+2. Second item, dawg
+3. Third item, what what?!
+4. Fourth item, fo sheezy my neezy
+5. Fifth item, nested!
+  - So la ti do
+  - Ba-da-bing!
+  - Ba-da-boom!
+
+## Headings are cool! (h2)
+
+Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+
+Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+
+### Tables
+
+Title 1               | Title 2               | Title 3               | Title 4
+--------------------- | --------------------- | --------------------- | ---------------------
+lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+
+
+Title 1 | Title 2 | Title 3 | Title 4
+--- | --- | --- | ---
+lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
+lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
+lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
+lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur]]></content><author><name>[&quot;Bart Simpson&quot;, &quot;Nelson Mandela Muntz&quot;]</name></author><category term="script" /><category term="junk" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.]]></summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/script/2016/05/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>http://localhost:4000/script/2016/05/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/script/2016/05/20/welcome-to-jekyll.html"><![CDATA[You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/]]></content><author><name>GitHub User</name><email>your-email@domain.com</email></author><category term="script" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Codeblocks Ahoy</title><link href="http://localhost:4000/script/2016/05/19/codeblocks-ahoy.html" rel="alternate" type="text/html" title="Codeblocks Ahoy" /><published>2016-05-19T00:00:00-04:00</published><updated>2016-05-19T00:00:00-04:00</updated><id>http://localhost:4000/script/2016/05/19/codeblocks-ahoy</id><content type="html" xml:base="http://localhost:4000/script/2016/05/19/codeblocks-ahoy.html"><![CDATA[An article with various blocks of highlighted code snippets.
+
+```ruby
+=begin
+  Dummy class nested inside a dummy module
+  Private API
+=end
+```
+```diff
+- This line is redacted
+- This line has been deleted
++ This line is visible
++ This line has been inserted
+This line has not been changed
+```
+```sass
+@import "base"
+
+.card
+  display: inline-block
+  margin: 0
+  padding: 0
+
+  &:hover
+    color: #ab45ef;
+```
+```ruby
+21 + 54 = 0
+foo ||= bar
+foo / bar
+
+24
+45.75
+0x2C716
+\x0A
+01010
+
+/ya?ml/
+"yaml"
+```
+```ruby
+include Enumerable
+
+module Foo
+  class Bar
+    LIPSUM = "lorem ipsum dolor sit"
+
+    attr_reader :layout
+
+    def initialize
+      @layout = Layout.new
+    end
+
+    # instance method
+    def profile
+      measure_time do
+        compile layout
+        layout.render_with Bar::LIPSUM
+      end
+    rescue ArgumentError
+      false
+    end
+  end
+end
+
+# Execute code
+Foo::Bar.new.profile
+```
+
+{% raw %}
+```liquid
+{% assign foo = page.foo | bar: 'baz' %}
+{{ foo }}
+```
+{% endraw %}
+
+```yaml
+author:
+  admin: true
+  name: John Doe
+  email: johndoe@example.com
+  id: 75636474
+```
+
+{% highlight html %}
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+{% endhighlight %}
+
+{% highlight html mark_lines="1 4 7" %}
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+{% endhighlight %}
+
+{% highlight html linenos %}
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+{% endhighlight %}
+
+{% highlight html linenos mark_lines="1 4 7" %}
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+  </body>
+</html>
+{% endhighlight %}]]></content><author><name>GitHub User</name><email>your-email@domain.com</email></author><category term="script" /><summary type="html"><![CDATA[An article with various blocks of highlighted code snippets.]]></summary></entry><entry><title type="html">Some articles are just so short that we have to make the footer stick</title><link href="http://localhost:4000/script/misc/2016/05/19/super-short-article.html" rel="alternate" type="text/html" title="Some articles are just so short that we have to make the footer stick" /><published>2016-05-19T00:00:00-04:00</published><updated>2016-05-19T00:00:00-04:00</updated><id>http://localhost:4000/script/misc/2016/05/19/super-short-article</id><content type="html" xml:base="http://localhost:4000/script/misc/2016/05/19/super-short-article.html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content><author><name>GitHub User</name><email>your-email@domain.com</email></author><category term="script" /><category term="misc" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry></feed>
