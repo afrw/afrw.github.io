@@ -1,7 +1,7 @@
 # Site-wide settings
 title: the beginning of the end
 author:
-  name: 
+  name: test
   email: compoundingbox@hotmail.com
 description: 
   The physician who knows only medicine, knows not even medicine
@@ -50,3 +50,4 @@ minima:
 timezone: America/Grenada
 future: true
 umami_id: b671a501-e000-4892-911b-04729163d32f
+site.title: the beginning of the end
