@@ -47,6 +47,6 @@ minima:
   # Set to true to hide the RSS link in the footer
   hide_site_feed_link: true
 
-  timezone: America/Grenada
-  future: true
-  umami_id: b671a501-e000-4892-911b-04729163d32f
+timezone: America/Grenada
+future: true
+umami_id: b671a501-e000-4892-911b-04729163d32f
