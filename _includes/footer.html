@@ -10,10 +10,10 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.title | escape }}</li>
+            <li class="p-name"><strong>{{ site.title | escape }}</strong></li>
           {% endif -%}
           {% if site.author.email -%}
-          <li class="u-email"><strong>{{ site.author.email }}</strong></li>
+          <li class="u-email">{{ site.author.email }}</li>
           {%- endif %}
         </ul>
       {%- endif %}
