@@ -1,12 +1,11 @@
 # Site-wide settings
-title: Your awesome title
+title: the beginning of the end
 author:
-  name: GitHub User
-  email: your-email@domain.com
-description: >
-  Write an awesome description for your new site here. It will appear 
-  in your document head meta and in your feed.xml site description.
-
+  name: 
+  email: compoundingbox@hotmail.com
+description: 
+  The physician who knows only medicine, knows not even medicine
+  
 # Build settings
 # Use 'theme' for local development or 'remote_theme' for GitHub Pages
 theme: minima
@@ -34,16 +33,19 @@ minima:
   show_excerpts: true
 
   # Minima date format (e.g. Jan-01-2024).
-  date_format: "%b-%d-%Y"
+  # date_format: "%b-%d-%Y"
 
   # Social Media Links (Renders icons in footer)
   social_links:
-    - title: Minima Theme repository at GitHub
+    - title: Github
       icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
+      url: "https://github.com/afrw"
+    - title: X
       icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://X.com"
 
   # Set to true to hide the RSS link in the footer
-  hide_site_feed_link: false
+  hide_site_feed_link: true
+
+  future: true
+  umami_id: b671a501-e000-4892-911b-04729163d32f

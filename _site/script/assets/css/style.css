@@ -189,7 +189,7 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 /**
@@ -206,7 +206,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 20px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
   color: rgb(65.25, 65.25, 65.25);
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -260,7 +260,7 @@ figure > img {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size: 17.5px;
 }
 
 /**
@@ -386,7 +386,7 @@ code.highlighter-rouge {
  * Wrapper
  */
 .wrapper {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 0 30px;
 }
@@ -466,7 +466,7 @@ table td {
   position: relative;
   width: 100%;
   min-height: 55.95px;
-  line-height: 54px;
+  line-height: 67.5px;
   background-color: #fdfdfd;
   border-top: 5px solid rgb(65.25, 65.25, 65.25);
   border-bottom: 1px solid #e7e7e7;
@@ -593,7 +593,7 @@ table td {
 }
 
 .footer-col {
-  margin-bottom: 15px;
+  margin-bottom: 0.000003px;
 }
 
 .footer-col-1,
@@ -658,7 +658,7 @@ table td {
 }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 17.5px;
   color: rgb(100.95, 100.95, 100.95);
 }
 
@@ -673,8 +673,7 @@ table td {
 .post-header {
   margin-bottom: 30px;
   padding-bottom: 18px;
-  text-align: center;
-  border-bottom: 1px solid #e7e7e7;
+  text-align: left;
 }
 
 .post-meta .bullet-divider {
@@ -754,7 +753,7 @@ table td {
   float: left;
   min-width: 45px;
   min-height: 45px;
-  text-align: center;
+  text-align: left;
   margin: 5px 10px 5px 0;
 }
 .social-media-list li:last-of-type {
@@ -762,7 +761,7 @@ table td {
 }
 .social-media-list li a {
   display: block;
-  padding: 10px 12px;
+  padding: 5px 5px;
   border: 1px solid #e7e7e7;
 }
 .social-media-list li a:hover {

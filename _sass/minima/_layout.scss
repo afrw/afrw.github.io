@@ -150,7 +150,7 @@
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit * .5;
+  margin-bottom: $spacing-unit * .0000001;
 }
 
 .footer-col-1,
@@ -242,8 +242,7 @@
 .post-header {
   margin-bottom: $spacing-unit;
   padding-bottom: 18px;
-  text-align: center;
-  border-bottom: 1px solid $border-color-01;
+  text-align: left;
 }
 
 .post-meta {
@@ -318,12 +317,12 @@
     float: left;
     min-width: 45px;
     min-height: 45px;
-    text-align: center;
+    text-align: left;
     margin: 5px 10px 5px 0;
     &:last-of-type { margin-right: 0 }
     a {
       display: block;
-      padding: 10px 12px;
+      padding: 5px 5px;
       border: 1px solid $border-color-01;
       &:hover { border-color: $border-color-02 }
     }
